@@ -11,6 +11,7 @@
 - 학력 : 제주대학교 컴퓨터공학전공 2학년 재학 중
   - Include 분과
   - 차세대 통신망 연구실
+- 자기소개 페이지 : [자기소개 페이지](https://yongjup.github.io)
 
 ## 사용해본 언어
 
@@ -28,10 +29,10 @@
 
 ## Fork
 
-1. [devise](https://github.com/plataformatec/devise) 
+1. [devise](https://github.com/YongJup/devise)
    - 루비온 레일즈에서 로그인, 회원가입 기능을 구현해주는 젬(gem).
    - 팀 프로젝트를 할 때 로그인이 필요할 것 같아 찾아보게됨.
-2. [cancancan](https://github.com/CanCanCommunity/cancancan)
-3. [rolify](https://github.com/RolifyCommunity/rolify)
+2. [cancancan](https://github.com/YongJup/cancancan)
+3. [rolify](https://github.com/YongJup/rolify)
    - 위의 cancancan과 같이 사용할 수 있으며 웹 사이트 내에서 권한을 부여해 유저들을 관리 할 수 있는 젬.
    - 이또한 팀 프로젝트를 할 때 필요 할 것 같아서 찾아보게 됨
