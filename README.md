@@ -1,3 +1,31 @@
+# PanelCV
+
+This theme is designed by [flexycodex](https://themeforest.net/item/flexyvcard-responsive-vcard-template-/7158750) and modified by [Locky](https://github.com/junlulocky)
+
+I have made this into a Jekyll Theme. Demo: [https://jekyller.github.io/PanelCV](https://jekyller.github.io/PanelCV)
+
+The theme would look like this 
+
+![Demo](/images/demo.png)
+
+
+# Installation
+
+- Fork the repository
+- Go to settings and set Github Pages source as master.
+- Your new site should be ready at https://username.github.io/PanelCV/
+
+Check out for more themes: [Jekyll Themes](http://jekylltheme.org)
+
+
+# Author
+
+- [Locky](https://github.com/junlulocky)
+
+
+
+
+
 # 강용재 2015108176
 
 ![용재](https://lh3.googleusercontent.com/9EY0Kh492TfEqGinbJ0qA3rz30tpHqruxWesQCU2sFVjP5v-sPeLTM0LOQd8dfoIlndi5KUNm6r4EaIGuws4pS3_FHzjZSAjLulcXw5L27FOCozzigQIc3BaJGmBy8vu33bwGVCdutuahff612nhdmPhILFIjB4sxqBiMmgBcBb8_AhuOtqGXAqIu1fYuQobRHY5ZLwKmorVNwL07SwL5Qtgyb-oS5bpCp8WzfKD-2yaM7wwwH4pwzCv3HGXtroaREjyMuPCbO8BXLnqoMcrjtgZJ5PKKzw3ZmPv970VRJ6ReWhd8KRRwbxd7r7CfCu6aD7lWub0MQo2x5iClMR3Yca5skiGh8BzsgQN39Qq-zLD1GRMh3eCZP-q6IzOlQUHyrPHSGp0kTIPawjsI72l1CzO3kIdWdirYkiBPlxwGtlJvnFiC4KWHOv1KNCoDN-TRQQr2o1Vk3e_wdwNgh9EDLTtmc4jo1onV7iQZG6qGNC6qHZ3W5C43fY05q-eT6jjHihduHGrhYErjaRRe6-gBPwFKiuEoJitmy7714q-roH1sD2uSRocVrl5QcHalB2gPmumY-R3W3TUUy65yBEu-eBw5Qf_DN8ue0F-fATobPMHH39ijRbwfWaGDf4buW4PGqzKhqH9wzj8bRBIEGczFxr9fFfa-rvvYq4DFjduI6EUaYYXicDuoen3kA=w1542-h868-no)
